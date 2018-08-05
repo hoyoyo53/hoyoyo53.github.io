@@ -1,6 +1,6 @@
 div{
   height:200px;
-  background-image:url(top.png);
+  background:url(top.png);
 }
 .title {
   color: #02ccba;
