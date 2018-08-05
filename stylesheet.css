@@ -1,5 +1,6 @@
 .header{
    background-image:url(top.png);
+   height:200px;
 }
 .title {
   color: #02ccba;
