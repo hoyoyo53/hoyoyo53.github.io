@@ -1,7 +1,6 @@
-div{
-  height:200px;
-  background-image:url(top.png);
-}
+
 .title {
   color: #02ccba;
+  height:200px;
+  background-image:url(top.png);
 }
